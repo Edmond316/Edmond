@@ -390,4 +390,4 @@ Git thinks of its data more like a series of snapshots of a miniature filesystem
 
 [^1]: Technically it's a kernel, a part of an operating system, but that's beyond the scope of this course
 
-[^2]: [Everything is a file](https://en.wikipedia.org/wiki/Everything_is_a_file)
+[^2]: [Everything is a file](https://en.wikipedia.org/wiki/Everything_is_a_file
